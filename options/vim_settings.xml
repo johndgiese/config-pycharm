@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="VimSettings">
+    <state version="2" enabled="true" keymap="$default" />
+    <globalmarks />
+    <filemarks>
+      <file name="/fragment.py" timestamp="1375477782131">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Research/OBM/DataRobMouse/obm_combine_halfs.py" timestamp="1375484669167">
+        <mark key="'" line="97" column="15" />
+        <mark key="]" line="90" column="0" />
+        <mark key="." line="90" column="0" />
+        <mark key="[" line="90" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="136" column="4" filename="$USER_HOME$/Dropbox/Research/obm_DataRobMouse/obm_combine_halfs.py" />
+      <jump line="83" column="0" filename="$USER_HOME$/Dropbox/Research/obm_DataRobMouse/obm_combine_halfs.py" />
+      <jump line="29" column="5" filename="$USER_HOME$/Dropbox/Research/OBM/DataRobMouse/obm_combine_halfs.py" />
+      <jump line="59" column="0" filename="$USER_HOME$/Dropbox/Research/OBM/DataRobMouse/obm_combine_halfs.py" />
+      <jump line="84" column="43" filename="$USER_HOME$/Dropbox/Research/OBM/DataRobMouse/obm_combine_halfs.py" />
+      <jump line="153" column="35" filename="$USER_HOME$/Dropbox/Research/OBM/DataRobMouse/obm_combine_halfs.py" />
+      <jump line="45" column="0" filename="$USER_HOME$/Dropbox/Research/OBM/DataRobMouse/obm_combine_halfs.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Dropbox/Research/OBM/DataRobMouse/obm_combine_halfs.py" />
+      <jump line="47" column="17" filename="$USER_HOME$/Dropbox/Research/OBM/DataRobMouse/obm_combine_halfs.py" />
+      <jump line="93" column="15" filename="$USER_HOME$/Dropbox/Research/OBM/DataRobMouse/obm_combine_halfs.py" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHNob3coKUpLCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBpbXNob3coZmlsbGVkX2ltZykK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHNob3coKUpLCg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHNob3coKUpLCg==</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBpbXNob3coZmlsbGVkX2ltZykK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBsZWZ0X2JsdXJyZWQgPSBibHVyX2ltYWdlKGxlZnQsIGJsdXJfc2l6ZSkK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBsZWZ0ID0gbGVmdC9sZWZ0X2JsdXJyZWQK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBsZWZ0ID0gcmVtb3ZlX2NvcmVfYXJ0aWZhY3QobGVmdCkK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBsZWZ0ID0gY3JvcF9lZGdlcyhsZWZ0LCAyKmJsdXJfc2l6ZSkK</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+      <register name="9" type="4">
+        <text>Warning(</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBsZWZ0ID0gY3JvcF9lZGdlcyhsZWZ0LCAyKmJsdXJfc2l6ZSkKICAgICAgICByaWdodCA9IGNyb3BfZWRnZXMocmlnaHQsIDIqYmx1cl9zaXplKQo=</text>
+      </register>
+      <register name="-" type="4">
+        <text>Warning(</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>true</show-last>
+    </search>
+    <history>
+      <history-search />
+      <history-cmd>
+        <entry>.,.+5w</entry>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
+</application>
+

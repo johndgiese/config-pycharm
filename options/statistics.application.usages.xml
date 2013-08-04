@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="vcs">
+      <project id="obm_DataRobMouse" values="Git" />
+    </group>
+    <group name="module type">
+      <project id="obm_DataRobMouse" values="PYTHON_MODULE" />
+    </group>
+    <group name="run-configuration-type-temp">
+      <project id="obm_DataRobMouse" values="PythonConfigurationType" />
+    </group>
+    <group name="file-type">
+      <project id="obm_DataRobMouse" values="Images,XML,PLAIN_TEXT,UNKNOWN,Python" />
+    </group>
+    <group name="JavaScript versions">
+      <project id="obm_DataRobMouse" values="DEFAULT" />
+    </group>
+    <group name="javaScript Scope Usages">
+      <project id="obm_DataRobMouse" values="Project,Project" />
+    </group>
+    <group name="py-interpreter">
+      <project id="obm_DataRobMouse" values="Python 2.7.3" />
+    </group>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="execute.PythonConfigurationType.Debug" count="37" />
+      <entry feature="execute.PythonConfigurationType.Run" count="12" />
+    </counts>
+  </component>
+</application>
+
