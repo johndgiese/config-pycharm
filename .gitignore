@@ -2,3 +2,8 @@ plugins/
 pycharm20.key
 tasks/
 componentVersions/
+options/notifications.xml
+options/browsers.xml
+options/statistics.application.usages.xml
+options/appComponentVersions.xml
+options/packages.xml
